@@ -1,0 +1,38 @@
+{
+  "name": "pro-ath",
+  "version": "1.0.0",
+  "description": "pro-athlite server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qubitars technologies",
+  "license": "ISC",
+  "dependencies": {
+    "@getyoti/sdk-sandbox": "^1.7.0",
+    "@netlify/functions": "^2.3.0",
+    "@types/express": "^4.17.20",
+    "axios": "^1.4.0",
+    "bcrypt": "^5.1.0",
+    "cloudinary": "^2.1.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "cryptr": "^6.0.3",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "fcm-node": "^1.6.1",
+    "handlebars": "^4.7.8",
+    "moment": "^2.29.4",
+    "mongoose": "^6.7.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.8.0",
+    "referral-codes": "^2.0.3",
+    "serverless-http": "^3.2.0",
+    "socket.io": "^4.6.1",
+    "stripe": "^11.17.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0",
+    "winston": "^3.8.2",
+    "yoti": "^4.1.0"
+  }
+}
